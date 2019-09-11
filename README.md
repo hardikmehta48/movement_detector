@@ -1,2 +1,2 @@
-# movement_detector
+# Movement Detector
 Detect the object and describes its movement.
