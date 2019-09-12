@@ -6,3 +6,5 @@ Detect the object and describes its movement.
 Here the Object Detector Detects objects throught DarkNet YOLO Object detection. That Object detector returns the centroid, height and width of a detected human. So this movement detector detect only for human movements.
 
 Direction Detector Uses the values of current frame and previous frame and see for the change then gives the output for movements. 
+
+You have to get the yolov3.weights file and copy it in the yolo-coco folder then run the Runthis.py . to excute the programs.
